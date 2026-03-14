@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+uploads/
+*.pdf
+*.docx
+.DS_Store
+instance/
+.vscode/
+*.egg-info/
+dist/
+build/
