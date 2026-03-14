@@ -199,3 +199,9 @@ Generates prioritized (High / Medium / Low) suggestions based on:
 - Integration with LinkedIn Jobs API
 - User accounts and history tracking
 - Resume export with improvements applied
+
+
+
+## Project Dashboard
+
+![Dashboard](Screenshot/Dashboard.png)
